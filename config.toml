@@ -110,10 +110,10 @@ copyright = " giftakari All rights reserve;"
     
     #contact information
     [[params.footer.contacts]]
-    contactInfo = ""
+    contactInfo = "Godsgift Akari"
     
     [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+    contactInfo = "Linkedin: https://www.linkedin.com/in/godsgift-akari-9951b05b/"
 
 
   # social site
