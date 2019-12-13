@@ -113,6 +113,7 @@ copyright = " giftakari All rights reserve;"
     contactInfo = "Godsgift Akari"
     
     [[params.footer.contacts]]
+  
     contactInfo = "Linkedin: https://www.linkedin.com/in/godsgift-akari-9951b05b/"
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+date: 2019-04-14T14:46:10+06:00
+description: "Here is a list of Some of my projects"
 image: "images/author.jpg"
 ---
 
