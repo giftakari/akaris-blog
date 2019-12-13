@@ -66,7 +66,7 @@ paginate = 10
 
 
 [params]
-logo = "images/logo.png"
+logo = "custom_images/giftakari_logo.png"
 home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = false
@@ -74,7 +74,7 @@ homeLayoutToggle = false
 description = "Gift Akari is a passionate Software | Web Developer with vast experience in Business"
 # about author
 author = "giftakari"
-authorImage = "images/banner-img.png"
+authorImage = "custom_images/Gift_Akari_Profile.png"
 shortDescription = "A passionate and goal-oriented Full-Stack Software | Web developer"
 # Contact Form Action
 contactFormAction = "#"
