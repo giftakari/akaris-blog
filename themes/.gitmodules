@@ -1,0 +1,4 @@
+[submodules "theme/giftakari"]
+	branch = stable
+	path ="themes/giftakari"
+	url =https://github.com/giftakari/parsa-hugo.git
