@@ -56,3 +56,5 @@ Experience with **.Net** and **Node.js**
 Knowledge of entity framework, ORM as well as LINQ.
 
 Developing cost-effective, intelligent, and intuitive web applications, mobile apps and desktop applications that help streamline processes for businesses as well as create new revenue streams for start-ups and established businesses for clients, remains our motivation and utmost priority.
+
+https://github.com -automatic! [github](https:/github.com)

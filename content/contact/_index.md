@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+date: 2019-10-14T14:46:10+06:00
+description: "How To contact Me"
 image: "custom_images/Gift_Akari_Profile.png"
 ---
 
