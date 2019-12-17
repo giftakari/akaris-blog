@@ -2,32 +2,57 @@
 title: "About"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
-image: "images/author.jpg"
+image: "custom_images/Gift_Akari_Profile.png"
 ---
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+**A premium JavaScript/Realts.Js/Vue.Js/Drupal Developer**, who believes in creativity and team spirit, with vast professional background in business management. The Founder and CEO of **Abolga Meet and Greet**, a renowned charity and youth empowerment Organization in Nigeria, that promotes culture and young talents.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Godsgift is best described as a business magnate, philanthropist, software developer and an investor. In a work capacity, **Godsgift** is a passionate goal driven **Full Stack-Software | Web developer**.
 
+His years of experience have been well honed with **14 years** in traveling management most recently, about three years down the line, he has gained expertise experience in the **Software Development** industry. His last role to date was as a **Software Developer**, Freelanching for **AkarisDigitech**, there he worked on building various projects for different clients, using [airtasker.com](https://www.airtasker.com) as well as other platforms.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Gidsgift is extremely well vast in almost all types of softwares across the whole technology board. His major work and achievements in this field have involved the development of applications, in not just front-end languages and back-end programing, but across both mobile and desktop Platforms. Also, Godsgift has variety of strength including but not limited to:
+
+- **Project and program management**.
+- **Design and architecture**.
+- **Development of software solutions**.
+- **Object oriented design principles. Functional programming**.
+- **Algorithm and data structure**.
+
+As a traveling manager, Godsgift ditectly managed clients from all over the world in the 14 years he spent performing his duties as a traveling manager. and has actually worked directly with some of the biggest names and companies in the traveling and tourism industry.
+
+These names paved the way for him through his career as the experience and knowledge he gained along the way become priceless. Client's list include companies such as:
+
+- **Expedia.com**
+- **Booking.com**
+- **British Airways**
+- **Emirates Airlines**
+- **Lufthansa**
+- **KLM/Air France**
+- **Etihad**
+
+In a leisure time, Godsgift also derives joy working in the **garden**. He has from that built himself a rather successful small business, as over 200 glowing reviews received from clients will definitely attest to:
+
+His experience with
+
+**HTML**, **Css**, **Bootstrap** and **JavaScript** Libraries such as **Realt**, **Vue.js**, **j Query**.
+
+Excellent **PHP** web application development experience (using **MVC** frameworks, **Drupal**, **WordPress**)
+
+Strong experience in Automated testing frameworks, PHHUnite/Jasmine.
+
+**Strong problem solving/troubleshooting**.
+Working knowledge of secure coding practices.
+
+Proven experience in building and launching great mobile and web so applications.
+
+Strong attention to details, with great organisational skills.
+
+Experience in solving problems folowing **SOLID** and **OOP design principles**.
+
+Knowledge of **C#**, **Java**, **JavaScript** and **SQL**.
+
+Experience with **.Net** and **Node.js**
+Knowledge of entity framework, ORM as well as LINQ.
+
+Developing cost-effective, intelligent, and intuitive web applications, mobile apps and desktop applications that help streamline processes for businesses as well as create new revenue streams for start-ups and established businesses for clients, remains our motivation and utmost priority.

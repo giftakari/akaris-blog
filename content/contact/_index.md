@@ -2,6 +2,11 @@
 title: "Contact"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
-image: "images/contact.jpg"
+image: "custom_images/Gift_Akari_Profile.png"
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+
+Owning a reliable and affordable Website, scalable Business Software, Mobile App, and other technological needs, is gradually becoming the desire of every man in this computer era. And we are passionate about delivering first class services to customer's satisfaction, our services are available nation wide with clients spreading accross major cities around the globe, our customer care representatives are available 24/7 to respond to all your enquiries within 1 working day, you can reach us via.
+
+Phone -
+
+Email Address:

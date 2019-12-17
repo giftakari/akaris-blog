@@ -1,0 +1,3 @@
+[submodules "giftakari"]
+	branch = stable
+	url =https://github.com/giftakari/parsa-hugo.git
