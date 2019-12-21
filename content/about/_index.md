@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "About giftakari"
 image: "custom_images/Gift_Akari_Profile.png"
 ---
 
@@ -35,7 +35,7 @@ In a leisure time, Godsgift also derives joy working in the **garden**. He has f
 
 His experience with
 
-**HTML**, **Css**, **Bootstrap** and **JavaScript** Libraries such as **Realt**, **Vue.js**, **j Query**.
+**HTML**, **CSS**, **Bootstrap** and **JavaScript** Libraries such as **React.Js**, **Vue.js**, **jQuery**.
 
 Excellent **PHP** web application development experience (using **MVC** frameworks, **Drupal**, **WordPress**)
 
