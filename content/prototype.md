@@ -3,7 +3,7 @@ title: "JavaScript Prototype -Godsgift Akari"
 date: 2019-05-14T14:46:10+06:00
 description: "JavaScript prototype"
 type: "post"
-image: "custom_images/Gift_Akari_Profile.png"
+image: ""
 categories:
   - "JavaScript"
 tags:

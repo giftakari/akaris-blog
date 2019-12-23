@@ -3,7 +3,7 @@ title: "Client side validation with HTML5 -Godsgift Akari"
 date: 2019-09-14T14:46:10+06:00
 description: "JavaScript Client side validation"
 type: "post"
-image: "custom_images/Gift_Akari_Profile.png"
+image: ""
 categories:
   - "JavaScript"
 tags:

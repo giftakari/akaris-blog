@@ -3,7 +3,7 @@ title: "Explaining JavaScript scope and closures - Godsgift Akari"
 date: 2019-05-14T14:46:10+06:00
 description: "JavaScript closure"
 type: "post"
-image: "custom_images/Gift_Akari_Profile.png"
+image: ""
 categories:
   - "JavaScript"
 tags:
