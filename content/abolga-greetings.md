@@ -3,7 +3,7 @@ title: "COMPLIMENT OF THE SEASON FROM GODSGIFT THANKGOD AKARI"
 date: 2019-12-24T14:46:10+06:00
 description: "COMPLIMENT OF THE SEASON FROM GODSGIFT THANKGOD AKARI"
 type: "post"
-draft: false
+draft: true
 image: ""
 categories:
   - "greetings"
