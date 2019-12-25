@@ -5,7 +5,7 @@ description: "About giftakari"
 image: "custom_images/Gift_Akari_Profile.png"
 ---
 
-**A premium JavaScript/Realts.Js/Vue.Js/Drupal Developer**, who believes in creativity and team spirit, with vast professional background in business management. The Founder and CEO of **Abolga Meet and Greet**, a renowned charity and youth empowerment Organization in Nigeria, that promotes culture and young talents.
+**A premium JavaScript/Realts.Js/Vue.Js/Drupal Developer**, who believes in creativity and team spirit, with vast professional background in business management. The Founder of **Abolga Meet and Greet**, a renowned charity and youth empowerment Organization in Nigeria, that promotes culture and young talents.
 
 Godsgift is best described as a business magnate, philanthropist, software developer and an investor. In a work capacity, **Godsgift** is a passionate goal driven **Full Stack-Software | Web developer**.
 
