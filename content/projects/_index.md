@@ -10,6 +10,8 @@ Below are some of our successful products.
 
 - https://github-app-12703.firebaseapp.com/
 - https://uts-facebook-vis.netlify.com/
+- https://5e28ab7ad798578553b7dc7e--upbeat-northcutt-167731.netlify.com/
+- https://infallible-kirch-39cdc2.netlify.com/
 - https://giftakari.github.io/akaris_degitech/
 - https://giftakari.github.io/Restaurant_Website/
 - https://giftakari.github.io/Math_Calculator/
